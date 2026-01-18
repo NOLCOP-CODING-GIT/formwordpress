@@ -9,6 +9,13 @@
       }
     }
   ],
+  "env": {
+    "VITE_SUPABASE_URL": "@supabase-url",
+    "VITE_SUPABASE_ANON_KEY": "@supabase-anon-key",
+    "VITE_EMAILJS_SERVICE_ID": "@emailjs-service-id",
+    "VITE_EMAILJS_TEMPLATE_ID": "@emailjs-template-id",
+    "VITE_EMAILJS_PUBLIC_KEY": "@emailjs-public-key"
+  },
   "rewrites": [
     {
       "source": "/(.*)",

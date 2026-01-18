@@ -10,11 +10,11 @@
     }
   ],
   "env": {
-    "VITE_SUPABASE_URL": "@supabase-url",
-    "VITE_SUPABASE_ANON_KEY": "@supabase-anon-key",
-    "VITE_EMAILJS_SERVICE_ID": "@emailjs-service-id",
-    "VITE_EMAILJS_TEMPLATE_ID": "@emailjs-template-id",
-    "VITE_EMAILJS_PUBLIC_KEY": "@emailjs-public-key"
+    "VITE_SUPABASE_URL": "https://rrpaukvoknuocxhgdqzt.supabase.co",
+    "VITE_SUPABASE_ANON_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJycGF1a3Zva251b2N4aGdkcXp0Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3Njg3NTc5ODEsImV4cCI6MjA4NDMzMzk4MX0.V35ZIsHwTt1eILmENci7dU2z7ZD7PL2gqN6kITi_jfY",
+    "VITE_EMAILJS_SERVICE_ID": "service_c61l6pt",
+    "VITE_EMAILJS_TEMPLATE_ID": "template_k7st682",
+    "VITE_EMAILJS_PUBLIC_KEY": "WWvP18P3ZpbR-RKmc"
   },
   "rewrites": [
     {
